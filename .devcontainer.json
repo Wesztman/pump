@@ -4,7 +4,6 @@
         "8123:8123"
     ],
     "postCreateCommand": "container install",
-    "postStartCommand": "container start",
     "extensions": [
         "ms-python.python",
         "github.vscode-pull-request-github",
