@@ -1,11 +1,11 @@
 {
     "domain": "PUMP",
-    "name": "Your Integration",
-    "integration_type": "hub",
-    "documentation": "https://www.example.com",
+    "name": "Phenomenal User-friendly Money-saving Pump-controller (TBD)",
+    "integration_type": "device",
+    "documentation": "https://github.com/Wesztman/pump",
     "dependencies": [],
     "codeowners": [],
     "requirements": [],
-    "iot_class": "cloud_polling",
+    "iot_class": "local_push",
     "version": "0.0.1"
 }
