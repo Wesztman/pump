@@ -18,7 +18,7 @@
     > Container will be built the first time you open the repository in a container.
     > This may take a few minutes. Subsequent opens will be much faster.
 
-1. Home Assistant is started automatically in the container, you can access it at http://localhost:8123
+1. Home Assistant is started automatically in the container, you can access it at http://localhost:8123 (don't close the starting terminal since this runs home assistance, instead open a second terminal in parallell)
 
 > **Tip:** Open a terminal in the container and run `container help` to see a list of available container commands.
 
